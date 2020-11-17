@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&family=Poiret+One&display=swap');
+
+*{
+    font-family: 'Poiret One', cursive;
+}
+.day{
+    color: white;
+}
+.date{
+    color: white;
+    font-weight: bolder;
+
+}
+
+.activeDay{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+    color: rgb(255, 0, 0);
+    text-decoration: underline;
+    cursor: pointer;
+}
+.activeDate{
+    text-align: center;
+    font-size: 25px;
+    color: rgb(255, 0, 0);
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+
+/* Event tags */
+.registeredEventTag {
+    height: 6px;
+    width: 6px;
+    background-color: rgb(55, 0, 255);
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 33px;
+  }
+  .featuredEventTag {
+    height: 6px;
+    width: 6px;
+    background-color: rgba(255, 251, 0, 0.678);
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 54px;
+  }
+  .annualEventTag {
+    height: 6px;
+    width: 6px;
+    background-color: rgb(1, 114, 26);
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 45px;
+  }

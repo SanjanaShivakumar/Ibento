@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&family=Poiret+One&display=swap');
+body {
+    background-color: #101010 !important;
+    margin: 0;
+    
+  }
+  .homePage{
+    height: 1000px;
+  }
+  .welcome{
+    font-family: 'Poiret One', cursive;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    letter-spacing: 3px;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    position: absolute;
+    margin-top: 6px;
+}
+
+.addEvent {
+    color: white;            
+    width: 55%;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 40px !important;
+ }
+
+ 
+
+ .addEvent:hover {
+   background-position: right center; /* change the direction of the change here */
+   color: #fff;
+   text-decoration: none;
+ }

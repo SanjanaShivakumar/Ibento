@@ -1,0 +1,20 @@
+.navbar {
+    margin-bottom: 10px;
+  }
+
+  .nav-link,
+  .bottom-nav-link {
+    color: #ffffff;
+  }
+
+  .bottom-tab-label {
+    font-size: 12px;
+  }
+
+.bottomNavigation{
+    background-color: rgb(49, 49, 49) !important;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    width: 95%;
+    margin: auto;
+}

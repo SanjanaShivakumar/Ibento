@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&family=Poiret+One&display=swap');
+body{
+    font-family: 'Poiret One', cursive;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+.eventForm{
+    margin-top: 20px;
+    color: white;
+}
+.addEventTitle{
+   margin-left: 40px;
+}

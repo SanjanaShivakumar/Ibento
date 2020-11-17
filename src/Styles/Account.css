@@ -1,0 +1,23 @@
+
+.accountIcons{
+    margin-right: 40px;
+    margin-left: 20px;
+}
+.myProfile{
+    margin-top: 30px;
+    background-color: #101010;
+    color: white;
+}
+.details{
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.list-group-item{
+    cursor: pointer;
+    padding: 20px;
+    font-size: 20px;
+}
+.list-group-item:hover{
+    text-decoration: none;
+    background-color: #1E90FF;
+}
