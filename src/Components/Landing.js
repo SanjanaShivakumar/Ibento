@@ -16,7 +16,7 @@ class landing extends Component {
 
         return (
             <div className="AppLanding">
-                <Navbar className="Appname">Ibento</Navbar>
+                <Navbar className="Appname">REVA Meets</Navbar>
                 <br />
                 <div class="jumbotron-fluid" className="jumbotronInfo">
                 <div class="container">
