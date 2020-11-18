@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/REVA-Meets/static/css/main.378bce40.chunk.css",
-    "main.js": "/REVA-Meets/static/js/main.cd77beaa.chunk.js",
-    "main.js.map": "/REVA-Meets/static/js/main.cd77beaa.chunk.js.map",
-    "runtime-main.js": "/REVA-Meets/static/js/runtime-main.aad3d2d4.js",
-    "runtime-main.js.map": "/REVA-Meets/static/js/runtime-main.aad3d2d4.js.map",
-    "static/css/2.1497fdcf.chunk.css": "/REVA-Meets/static/css/2.1497fdcf.chunk.css",
-    "static/js/2.8c18b841.chunk.js": "/REVA-Meets/static/js/2.8c18b841.chunk.js",
-    "static/js/2.8c18b841.chunk.js.map": "/REVA-Meets/static/js/2.8c18b841.chunk.js.map",
+    "main.css": "/REVA-Meets/static/css/main.83e45278.chunk.css",
+    "main.js": "/REVA-Meets/static/js/main.5cd25c1b.chunk.js",
+    "main.js.map": "/REVA-Meets/static/js/main.5cd25c1b.chunk.js.map",
+    "runtime-main.js": "/REVA-Meets/static/js/runtime-main.f38ec0f2.js",
+    "runtime-main.js.map": "/REVA-Meets/static/js/runtime-main.f38ec0f2.js.map",
+    "static/css/2.ba9f4e5f.chunk.css": "/REVA-Meets/static/css/2.ba9f4e5f.chunk.css",
+    "static/js/2.70dd6e8c.chunk.js": "/REVA-Meets/static/js/2.70dd6e8c.chunk.js",
+    "static/js/2.70dd6e8c.chunk.js.map": "/REVA-Meets/static/js/2.70dd6e8c.chunk.js.map",
     "index.html": "/REVA-Meets/index.html",
-    "static/css/2.1497fdcf.chunk.css.map": "/REVA-Meets/static/css/2.1497fdcf.chunk.css.map",
-    "static/css/main.378bce40.chunk.css.map": "/REVA-Meets/static/css/main.378bce40.chunk.css.map",
-    "static/js/2.8c18b841.chunk.js.LICENSE.txt": "/REVA-Meets/static/js/2.8c18b841.chunk.js.LICENSE.txt",
+    "static/css/2.ba9f4e5f.chunk.css.map": "/REVA-Meets/static/css/2.ba9f4e5f.chunk.css.map",
+    "static/css/main.83e45278.chunk.css.map": "/REVA-Meets/static/css/main.83e45278.chunk.css.map",
+    "static/js/2.70dd6e8c.chunk.js.LICENSE.txt": "/REVA-Meets/static/js/2.70dd6e8c.chunk.js.LICENSE.txt",
     "static/media/arts.95a174eb.jpg": "/REVA-Meets/static/media/arts.95a174eb.jpg",
     "static/media/Landing.css": "/REVA-Meets/static/media/backg.83ca690e.jpg",
     "static/media/create.1ed8b2ab.jpg": "/REVA-Meets/static/media/create.1ed8b2ab.jpg",
@@ -22,10 +22,10 @@
     "static/media/sports.449a5782.jpg": "/REVA-Meets/static/media/sports.449a5782.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.aad3d2d4.js",
-    "static/css/2.1497fdcf.chunk.css",
-    "static/js/2.8c18b841.chunk.js",
-    "static/css/main.378bce40.chunk.css",
-    "static/js/main.cd77beaa.chunk.js"
+    "static/js/runtime-main.f38ec0f2.js",
+    "static/css/2.ba9f4e5f.chunk.css",
+    "static/js/2.70dd6e8c.chunk.js",
+    "static/css/main.83e45278.chunk.css",
+    "static/js/main.5cd25c1b.chunk.js"
   ]
 }
