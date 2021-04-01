@@ -1,4 +1,4 @@
-# REVA-Meets
+# Ibento
 
 Organize. Collaborate. Learn.
 
