@@ -16,6 +16,9 @@ With over 130+ clubs and associations at REVA University, webinars, workshops an
 
 Ibento (Japanese for ‘Event’), is a university-based app. The homepage includes a weekly calendar for students to view and keep track of registered events and events that are of interest to them. Organizers can additionally conduct a seminar for selected students and send out customized notifications individually. Integration with a strong database takes care of all the scheduling. After registration, students will also receive emails on successful registration to remind them at three intervals. Keeping track of attendance is also incorporated within the app.
 
+Click [here](https://drive.google.com/file/d/1hDp0J_c39OT2p09SY5dgd85j6oaBRIWF/view?usp=sharing) to watch a demo. 
+
+
 ## Getting Started - App
 
 Clone this Repository
